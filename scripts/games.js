@@ -11,11 +11,11 @@ export const games = [
   {
     access: "snake-game",
     name: "Snake Game",
-    link: "https://rafaelcostasilva1501.github.io/Snake-Game",
+    link: "https://rafaelcsilva-dev.github.io/Snake-Game",
     description:
       "O clássico que nunca sai de moda! Controle uma cobrinha faminta e desafie seus reflexos enquanto coleta alimentos para crescer cada vez mais.",
     release: "27 de Set 2024",
-    github: "https://github.com/RafaelCostaSIlva1501/Snake-Game",
+    github: "https://github.com/rafaelcsilva-dev/Snake-Game",
     update: [
       {
         date: "10.03.2025",
@@ -70,31 +70,31 @@ export const games = [
   {
     access: "pixelart",
     name: "Pixelart",
-    link: "https://rafaelcostasilva1501.github.io/Pixelart",
+    link: "https://rafaelcsilva-dev.github.io/Pixelart",
     description:
       "Dê vida à sua criatividade! Neste game de pixel art, você cria, desenha e colore suas próprias artes pixeladas de forma divertida e intuitiva.",
     release: "2 de Dez 2024",
-    github: "https://github.com/RafaelCostaSIlva1501/Pixelart",
+    github: "https://github.com/rafaelcsilva-dev/Pixelart",
   },
 
   {
     access: "paint",
     name: "Paint",
-    link: "https://rafaelcostasilva1501.github.io/Paint",
+    link: "https://rafaelcsilva-dev.github.io/Paint",
     description:
       "Desenhe e pinte com facilidade, criando obras digitais com uma paleta intuitiva e ferramentas simples!",
     release: "26 de Nov 2024",
-    github: "https://github.com/RafaelCostaSIlva1501/Paint",
+    github: "https://github.com/rafaelcsilva-dev/Paint",
   },
 
   {
     access: "piano",
     name: "Piano",
-    link: "https://rafaelcostasilva1501.github.io/Piano",
+    link: "https://rafaelcsilva-dev.github.io/Piano",
     description:
       "Transforme seu teclado em um piano e toque músicas enquanto explora novas melodias de forma divertida!",
     release: "26 de Nov 2024",
-    github: "https://github.com/RafaelCostaSIlva1501/Piano",
+    github: "https://github.com/rafaelcsilva-dev/Piano",
   },
 
   /*
